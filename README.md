@@ -21,4 +21,4 @@ I’m open to:
 
 Let’s connect and build something meaningful together!
 
-> **[Linkedin] (https://www.linkedin.com/in/divyanshu-kumar-047322228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)** | **[Email](mailto:nddictator@gmail.com)**
+> **[Linkedin](https://www.linkedin.com/in/divyanshu-kumar-047322228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)** | **[Email](mailto:nddictator@gmail.com)**
