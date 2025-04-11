@@ -1,6 +1,6 @@
-# Hi, I'm [Your Name] – Full Stack Developer | Python | Django | Flutter
+# Hi, I'm Divyanshu – Full Stack Developer | Python | Django | Flutter | DRF | REDIS | CELERY | AWS | GITHUB | MSSQL | POSTGRESQL | MYSQL | CI/CD
 
-I'm a results-driven software engineer with **6+ years of experience** building scalable web apps and cross-platform mobile apps.
+I'm a results-driven software engineer with **4+ years of experience** building scalable web apps and cross-platform mobile apps.
 
 - **Backend:** Python, Django, DRF, Celery, Redis  
 - **Mobile:** Flutter (Riverpod, GoRouter, Firebase), Android (Java)  
@@ -21,4 +21,4 @@ I’m open to:
 
 Let’s connect and build something meaningful together!
 
-> **[LinkedIn](https://www.linkedin.com/in/yourusername)** | **[Resume](https://yourresume.link)** | **[Email](mailto:your.email@example.com)**
+> **[Linkedin] (https://www.linkedin.com/in/divyanshu-kumar-047322228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)** | **[Email](mailto:nddictator@gmail.com)**
